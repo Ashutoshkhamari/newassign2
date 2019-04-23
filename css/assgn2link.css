@@ -1,0 +1,40 @@
+h1
+{
+	font-family: 'Pacifico', cursive;
+	font-family: 'Lobster', cursive;
+}
+.nav_menu
+{
+	margin-right: 20px;
+}
+
+.nav_menu:hover {
+	font-size: 20px;
+	color: red;
+}
+
+body{
+	background-color: #D3D3D3;
+}
+.nav_bar
+{
+	padding: 45px;background-color: #F0FFF0;
+}
+.nav_logo
+{
+	position: absolute;left: 0;margin-top: -12px;
+}
+.nav_header
+{
+	padding: 40px;
+	margin-top: -20px;
+}
+.nav_sub
+{
+	margin-left: 48px;margin-top: -20px;position: absolute;
+}
+.nav_head
+{
+	margin-top: -10px;
+	position: absolute;
+}
